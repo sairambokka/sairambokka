@@ -166,20 +166,6 @@ I'm a passionate and results-driven **Cybersecurity Professional** with a Master
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Sairam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sairambokka&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sairambokka&layout=compact&theme=radical)](https://github.com/sairambokka)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sairambokka&theme=radical)](https://github.com/sairambokka)
-
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
