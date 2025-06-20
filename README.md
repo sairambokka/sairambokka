@@ -1,120 +1,203 @@
-Hi there, I'm Sairam Bokka! 👋
-I'm a passionate and results-driven Cybersecurity professional with a Master of Science in Cybersecurity (GPA 4.0/4.0) from the University of Maryland, Baltimore County. I'm dedicated to enhancing security posture, automating processes, and building robust, fault-tolerant systems. My expertise spans security engineering, software development, and network penetration testing, always with a keen eye on best practices for secure and efficient deployments.
+# Hi there, I'm Sairam Bokka! 👋
 
-I'm currently seeking opportunities where I can apply my skills in cybersecurity, software development, and automation to contribute to innovative projects and secure critical infrastructure.
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bokka-sairam)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sairambokka)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sairambokka23@gmail.com)
 
-🚀 Skills & Expertise
-Certifications: CompTIA Security+
+</div>
 
-Security Tools: Splunk, Nmap, Nessus, Sysmon, Wireshark, Atomic Red Team, Active Directory
+## 🎯 About Me
 
-DevOps/Frameworks: Docker, Jenkins, GitHub, Maven
+I'm a passionate and results-driven **Cybersecurity Professional** with a Master of Science in Cybersecurity (GPA 4.0/4.0) from the University of Maryland, Baltimore County. I'm dedicated to enhancing security posture, automating processes, and building robust, fault-tolerant systems. My expertise spans security engineering, software development, and network penetration testing, always with a keen eye on best practices for secure and efficient deployments.
 
-Programming Languages: Python, Java, TypeScript, Bash, HTML5, CSS, JavaScript
+🔍 **Currently seeking opportunities** where I can apply my skills in cybersecurity, software development, and automation to contribute to innovative projects and secure critical infrastructure.
 
-Platforms/OS: Windows, Mac, Linux, Unix
+---
 
-Databases & Web Technologies: Relational Databases (SQL), JDBC, RESTful Web Services, JSON, XML
+## 🚀 Skills & Expertise
 
-🌱 My Latest Endeavors & Experience
-Software Engineering Intern | RootsID LLC (Feb 2025 - May 2025)
-Developed a custom TypeScript step runner to enhance cryptographic verification chains, enabling secure root of trust integration and improving authentication integrity by 30% in decentralized identity systems.
+### 🏆 Certifications
+- **CompTIA Security+**
 
-Configured Docker Compose for 4+ interdependent microservices across distributed Linux environments, improving fault-tolerant deployment workflows and reducing environment setup time by 25%.
+### 🔒 Security Tools
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=flat&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
-Collaborated with a 5-person cross-functional team to integrate identity workflows into a browser extension, enabling upload of JSON/YAML configurations and improving client/credential provisioning speed by 40%.
+`Splunk` `Nmap` `Nessus` `Sysmon` `Wireshark` `Atomic Red Team` `Active Directory`
 
-Built a secure JavaScript-based file upload module to execute identity verification workflows, improving user onboarding speed by 35% and enhancing usability of the self-sovereign identity system.
+### ⚙️ DevOps & Frameworks
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
 
-Security Engineering Intern | Tenable Network Security (June 2024 - August 2024)
-Developed a Python-based Slack bot that automated security advisory lookups across 8 Oracle Linux repos, reducing response time from 3-5 days to less than 24 hours and improving vulnerability triage efficiency by 80%.
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-Containerized the security bot using Docker and implemented 50+ unit tests to achieve 95% code coverage, ensuring reliability and fault tolerance in cloud-based deployments.
+### 🖥️ Platforms & Operating Systems
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Unix](https://img.shields.io/badge/Unix-000000?style=flat&logoColor=white)
 
-Built and deployed a Jenkins-based CI/CD pipeline integrated with Git, enabling 5+ automated builds/day and reducing manual test/deployment effort by 40%, supporting scalable rollout of security tools.
+### 🗄️ Databases & Web Technologies
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=flat&logoColor=white)
 
-Deployed bot on Linux cloud server with 99.9% uptime, securing secrets using environment variables to meet secure configuration and IAM best practices for production-grade deployments.
+`Relational Databases (SQL)` `JDBC` `RESTful Web Services` `JSON` `XML`
 
-Participated in migration testing and peer code review for Tenable Security Center, ensuring secure data transfer and OS compatibility in a large-scale infrastructure upgrade from CentOS 7 to Oracle Linux 8.
+---
 
-💡 Projects
-Malware Reverse Engineering | Software Reverse Engineering (November 2024)
-Reverse-engineered a malware sample using Ghidra, identifying its Command & Control (C2) server and analyzing its network communication protocol, socket connections, and message structures to understand attacker tactics.
+## 🌱 Professional Experience
 
-Examined malware functionality, including file operations, remote command execution, directory changes, and metadata exfiltration, uncovering how the malware manipulates system files and interacts with the compromised host.
+### 💼 Software Engineering Intern | RootsID LLC
+**Feb 2025 - May 2025**
 
-Compiled findings into a detailed technical report, mapping behaviors to MITRE ATT&CK, categorizing attack techniques, and recommending mitigation strategies such as network segmentation, behavior-based detection, and endpoint hardening.
+- 🔐 Developed a custom **TypeScript step runner** to enhance cryptographic verification chains, enabling secure root of trust integration and improving authentication integrity by **30%** in decentralized identity systems
+- 🐳 Configured **Docker Compose** for 4+ interdependent microservices across distributed Linux environments, improving fault-tolerant deployment workflows and reducing environment setup time by **25%**
+- 👥 Collaborated with a 5-person cross-functional team to integrate identity workflows into a browser extension, enabling upload of JSON/YAML configurations and improving client/credential provisioning speed by **40%**
+- 📁 Built a secure JavaScript-based file upload module to execute identity verification workflows, improving user onboarding speed by **35%** and enhancing usability of the self-sovereign identity system
 
-Endpoint Detection and Response using Deep Learning Model | Deep Learning (May 2024)
-Engineered a custom deep learning model for Endpoint Detection and Response using Python and TensorFlow.
+### 🛡️ Security Engineering Intern | Tenable Network Security
+**June 2024 - August 2024**
 
-The model achieved an average accuracy of 0.89, precision of 0.86, recall of 0.91, and F1-score of 0.88, demonstrating robust performance in detecting and responding to potential security threats at network endpoints.
+- 🤖 Developed a **Python-based Slack bot** that automated security advisory lookups across 8 Oracle Linux repos, reducing response time from 3-5 days to **less than 24 hours** and improving vulnerability triage efficiency by **80%**
+- 🐳 Containerized the security bot using **Docker** and implemented 50+ unit tests to achieve **95% code coverage**, ensuring reliability and fault tolerance in cloud-based deployments
+- 🔄 Built and deployed a **Jenkins-based CI/CD pipeline** integrated with Git, enabling 5+ automated builds/day and reducing manual test/deployment effort by **40%**
+- ☁️ Deployed bot on Linux cloud server with **99.9% uptime**, securing secrets using environment variables to meet secure configuration and IAM best practices
+- 🔄 Participated in migration testing and peer code review for Tenable Security Center, ensuring secure data transfer and OS compatibility in large-scale infrastructure upgrade from CentOS 7 to Oracle Linux 8
 
-Enterprise Security Lab: Active Directory, Splunk, Atomic Red Team (August 2024)
-Deployed Active Directory on Windows Server 2022 with organizational units and user policies; configured Splunk with Sysmon and Universal Forwarders on Ubuntu to improve Windows endpoint visibility.
+---
 
-Conducted adversary simulation using Atomic Red Team aligned with MITRE ATT&CK techniques, validated log visibility and detection coverage on Windows endpoints.
+## 💡 Featured Projects
 
-Network Penetration Testing | Cyber Practitioner Development Lab (May 2024)
-Executed comprehensive penetration tests on 4 vulnerable machines. Identified and exploited high-risk vulnerabilities using Nmap for network discovery and Nessus for vulnerability scanning and mapped vulnerabilities to corresponding CVEs.
+<details>
+<summary><strong>🔍 Malware Reverse Engineering</strong> - Software Reverse Engineering (November 2024)</summary>
 
-Successfully breached target systems by exploiting weak passwords, outdated software versions, and open ports.
+- 🕵️ Reverse-engineered a malware sample using **Ghidra**, identifying its Command & Control (C2) server and analyzing its network communication protocol, socket connections, and message structures
+- 🔬 Examined malware functionality, including file operations, remote command execution, directory changes, and metadata exfiltration
+- 📊 Compiled findings into a detailed technical report, mapping behaviors to **MITRE ATT&CK** framework and recommending mitigation strategies
 
-Crafted custom malicious payloads based on vulnerability information to gain access to the systems.
+</details>
 
-Produced a detailed technical report outlining vulnerabilities, exploits and remediation strategies.
+<details>
+<summary><strong>🤖 Endpoint Detection and Response using Deep Learning</strong> - Deep Learning (May 2024)</summary>
 
-Risk Assessment of an Investment Firm | Risk Analysis and Compliance (December 2023)
-Conducted risk assessment of an investment firm's security policies and controls against New York DFS regulations.
+- 🧠 Engineered a custom deep learning model for EDR using **Python and TensorFlow**
+- 📈 Achieved impressive performance metrics:
+  - **Accuracy**: 0.89
+  - **Precision**: 0.86
+  - **Recall**: 0.91
+  - **F1-score**: 0.88
 
-Identified deficiencies and created a thorough risk register detailing 12 findings, recommended solutions, and performed cost-benefit analyses for each remediation strategy, prioritizing actions based on risk severity and implementation costs.
+</details>
 
-Provided analysis of the results and risk treatment roadmap prioritizing 5 very high-risk areas to strengthen security posture against emerging threats.
+<details>
+<summary><strong>🏢 Enterprise Security Lab</strong> - Active Directory, Splunk, Atomic Red Team (August 2024)</summary>
 
-🌟 Featured GitHub Projects
-SETGuru: Socratic Emphatic Tutor Guru
-An innovative AI-powered learning companion that guides students through personalized Socratic questioning and emotional intelligence. Instead of providing direct answers, this AI tutor guides students to discover solutions independently, adapting its approach based on their emotional state and learning style.
+- 🖥️ Deployed **Active Directory** on Windows Server 2022 with organizational units and user policies
+- 📊 Configured **Splunk** with Sysmon and Universal Forwarders on Ubuntu for enhanced Windows endpoint visibility
+- ⚔️ Conducted adversary simulation using **Atomic Red Team** aligned with MITRE ATT&CK techniques
 
-Key Features:
+</details>
 
-Socratic Questioning: AI never gives direct answers, but guides through thoughtful questions.
+<details>
+<summary><strong>🔓 Network Penetration Testing</strong> - Cyber Practitioner Development Lab (May 2024)</summary>
 
-Emotional Intelligence: Detects emotions and adapts teaching style accordingly.
+- 🎯 Executed comprehensive penetration tests on 4 vulnerable machines
+- 🔍 Identified and exploited high-risk vulnerabilities using **Nmap** and **Nessus**
+- 💻 Successfully breached target systems by exploiting weak passwords, outdated software, and open ports
+- 📋 Produced detailed technical reports with remediation strategies
 
-Progress Tracking: Provides visual learning analytics and concept mastery tracking.
+</details>
 
-Personalized Learning: Adapts to subject, grade level, and learning preferences.
+<details>
+<summary><strong>📊 Risk Assessment of Investment Firm</strong> - Risk Analysis and Compliance (December 2023)</summary>
 
-Gamification: Includes achievement systems, streak counters, and progress visualization.
+- 🏦 Conducted comprehensive risk assessment against **New York DFS regulations**
+- 📋 Created thorough risk register with **12 findings** and remediation strategies
+- 💰 Performed cost-benefit analyses and prioritized **5 very high-risk areas**
 
-Pluggable AI Models: Supports easy switching between LLM providers (Google Gemini / OpenAI GPT).
+</details>
 
-Containerized: Full Docker setup for easy deployment.
+---
 
-Tech Stack: Next.js (React), Node.js (Express), Python (FastAPI), PostgreSQL, Docker, Google Gemini, OpenAI GPT.
+## 🌟 Featured GitHub Projects
 
-MISP MCP Server
-A simple Model Context Protocol (MCP) server that exposes MISP (Malware Information Sharing Platform) IOC retrieval functions to MCP-compatible clients like Claude Desktop.
+### 🎓 [SETGuru: Socratic Emphatic Tutor Guru](https://github.com/sairambokka/SETGuru)
 
-Key Features:
+> An innovative AI-powered learning companion that guides students through personalized Socratic questioning and emotional intelligence.
 
-Get Recent IOCs: Retrieve IOCs added to MISP in the last 24 hours.
+**🔥 Key Features:**
+- 🤔 **Socratic Questioning**: AI guides through thoughtful questions instead of direct answers
+- 💭 **Emotional Intelligence**: Detects emotions and adapts teaching style
+- 📈 **Progress Tracking**: Visual learning analytics and concept mastery tracking
+- 🎯 **Personalized Learning**: Adapts to subject, grade level, and preferences
+- 🎮 **Gamification**: Achievement systems and progress visualization
+- 🔌 **Pluggable AI Models**: Support for Google Gemini and OpenAI GPT
+- 🐳 **Containerized**: Full Docker setup for easy deployment
 
-IOC Summary: Get statistics and counts by IOC type.
+**🛠️ Tech Stack:** Next.js, Node.js, Python (FastAPI), PostgreSQL, Docker, Google Gemini, OpenAI GPT
 
-Filter by Type: Get IOCs filtered by specific types (IP, domain, URL, etc.).
+### 🔍 [MISP MCP Server](https://github.com/sairambokka/misp-mcp-server)
 
-Save to File: Export IOCs to JSON files.
+> A Model Context Protocol (MCP) server that exposes MISP IOC retrieval functions to MCP-compatible clients like Claude Desktop.
 
-Connection Check: Verify MISP connectivity and configuration.
+**🔥 Key Features:**
+- 📅 **Get Recent IOCs**: Retrieve IOCs from last 24 hours
+- 📊 **IOC Summary**: Statistics and counts by IOC type
+- 🔍 **Filter by Type**: Get IOCs by specific types (IP, domain, URL, etc.)
+- 💾 **Save to File**: Export IOCs to JSON files
+- 🔗 **Connection Check**: Verify MISP connectivity
 
-Technologies Used: Python, Docker, MISP API, MCP Protocol.
+**🛠️ Tech Stack:** Python, Docker, MISP API, MCP Protocol
 
-🤝 Let's Connect!
-Email: sairambokka23@gmail.com
+---
 
-LinkedIn: www.linkedin.com/in/bokka-sairam
+## 📊 GitHub Stats
 
-GitHub: https://github.com/sairambokka
+<div align="center">
+  
+![Sairam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sairambokka&show_icons=true&theme=radical)
 
-⭐️ From sairambokka
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sairambokka&layout=compact&theme=radical)](https://github.com/sairambokka)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sairambokka&theme=radical)](https://github.com/sairambokka)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+💬 I'm always open to discussing cybersecurity, software development, and innovative tech solutions!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bokka-sairam)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sairambokka23@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sairambokka)
+
+</div>
+
+---
+
+<div align="center">
+  
+⭐️ **From [sairambokka](https://github.com/sairambokka)**
+
+*"Securing the digital world, one line of code at a time"* 🛡️
+
+</div>
