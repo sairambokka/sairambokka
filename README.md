@@ -136,23 +136,40 @@ I'm a passionate and results-driven **Cybersecurity Professional** with a Master
 
 ## 🌟 Featured GitHub Projects
 
-### 🎓 [SETGuru: Socratic Emphatic Tutor Guru](https://github.com/sairambokka/SETGuru)
-
-> An innovative AI-powered learning companion that guides students through personalized Socratic questioning and emotional intelligence.
+### 🛡️ [LLM-Based Firewall](https://github.com/sairambokka/Collab-Notebooks)
+> A novel, AI-driven firewall that uses a fine-tuned Large Language Model to classify live network packets and detect intrusions in real-time.
 
 **🔥 Key Features:**
-- 🤔 **Socratic Questioning**: AI guides through thoughtful questions instead of direct answers
-- 💭 **Emotional Intelligence**: Detects emotions and adapts teaching style
-- 📈 **Progress Tracking**: Visual learning analytics and concept mastery tracking
-- 🎯 **Personalized Learning**: Adapts to subject, grade level, and preferences
-- 🎮 **Gamification**: Achievement systems and progress visualization
-- 🔌 **Pluggable AI Models**: Support for Google Gemini and OpenAI GPT
-- 🐳 **Containerized**: Full Docker setup for easy deployment
+- [cite_start]📡 **Live Packet Analysis**: Developed a data pipeline using Python and Scapy to sniff, preprocess, and classify live network traffic for intrusion detection. [cite: 39]
+- [cite_start]🧠 **AI-Powered Detection**: Leverages a 20-billion parameter model (`unsloth/gpt-oss-20b`) to intelligently classify packets as safe or malicious. [cite: 40]
+- [cite_start]🛠️ **Custom Model Fine-Tuning**: Fine-tuned on the industry-standard UNSW-NB15 dataset to create a highly specialized and efficient classifier. [cite: 40]
+- [cite_start]⚡ **Efficient Performance**: Utilized 4-bit quantization with Unsloth and PyTorch for high-speed, low-memory model inference. [cite: 40]
 
-**🛠️ Tech Stack:** Next.js, Node.js, Python (FastAPI), PostgreSQL, Docker, Google Gemini, OpenAI GPT
+**🛠️ Tech Stack:** Python, Scapy, PyTorch, Transformers, Unsloth, Pandas
+
+### 🕵️ [Web Security Scanner AI Agent](https://github.com/sairambokka/web-scanning-ai-agent)
+> A multi-agent AI system that performs comprehensive security analysis of web applications using automated browser testing and intelligent vulnerability assessment.
+
+**🔥 Key Features:**
+- [cite_start]🤖 **Multi-Agent System**: Constructed a system of specialized AI agents using CrewAI and NVIDIA models to automate web security assessments. [cite: 43]
+- [cite_start]🌐 **Automated Browser Testing**: Integrated Selenium for live browser testing, allowing agents to analyze real-time network traffic and DOM data. [cite: 44]
+- [cite_start]🛡️ **In-Depth Vulnerability Analysis**: Assesses for critical frontend vulnerabilities including Cross-Site Scripting (XSS) and insecure Content Security Policies (CSPs). [cite: 44]
+- 📄 **Comprehensive Reporting**: Consolidates findings from all agents into detailed reports with actionable remediation steps.
+
+**🛠️ Tech Stack:** Python, CrewAI, NVIDIA AI, Selenium, Exa AI
+
+### 🔎 [OSINT Agent Orchestration](https://github.com/sairambokka/OSINT-Agent-Orchestration)
+> A powerful multi-agent framework that automates and streamlines Open Source Intelligence (OSINT) gathering on corporate entities using a team of specialized AI agents.
+
+**🔥 Key Features:**
+- [cite_start]🤖 **11 Specialized Agents**: Orchestrated a framework using CrewAI to deploy a team of agents, each with a unique OSINT task. [cite: 46]
+- ⚡ **Parallel Processing**: Agents work asynchronously to gather intelligence across multiple domains simultaneously for maximum efficiency.
+- [cite_start]📊 **Multi-Domain Analysis**: Enabled agents with Exa Search to investigate network infrastructure, social media presence, and business data. [cite: 48]
+- [cite_start]📝 **Automated Reporting**: Culminates all findings into comprehensive and structured intelligence reports. [cite: 48]
+
+**🛠️ Tech Stack:** Python, CrewAI, Exa AI, Langchain
 
 ### 🔍 [MISP MCP Server](https://github.com/sairambokka/misp-mcp-server)
-
 > A Model Context Protocol (MCP) server that exposes MISP IOC retrieval functions to MCP-compatible clients like Claude Desktop.
 
 **🔥 Key Features:**
@@ -161,8 +178,6 @@ I'm a passionate and results-driven **Cybersecurity Professional** with a Master
 - 🔍 **Filter by Type**: Get IOCs by specific types (IP, domain, URL, etc.)
 - 💾 **Save to File**: Export IOCs to JSON files
 - 🔗 **Connection Check**: Verify MISP connectivity
-
-**🛠️ Tech Stack:** Python, Docker, MISP API, MCP Protocol
 
 ---
 
